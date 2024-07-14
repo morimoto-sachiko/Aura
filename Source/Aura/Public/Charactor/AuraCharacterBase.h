@@ -27,7 +27,7 @@ protected:
 	TObjectPtr<USkeletalMeshComponent> Weapon;
 
 	UPROPERTY()
-	TObjectPtr<UAbilitySystemComponent>AbiliySystemComponet;
+	TObjectPtr<UAbilitySystemComponent>AbilitySystemComponent;
 
 	UPROPERTY()
 	TObjectPtr<UAttributeSet>AttributeSet;

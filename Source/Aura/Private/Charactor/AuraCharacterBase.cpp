@@ -16,7 +16,7 @@ AAuraCharacterBase::AAuraCharacterBase()
 
 UAbilitySystemComponent* AAuraCharacterBase::GetAbilitySystemComponent() const
 {
-	return AbiliySystemComponet;
+	return AbilitySystemComponent;
 }
 
 // Called when the game starts or when spawned
