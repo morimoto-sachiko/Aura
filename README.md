@@ -1,4 +1,5 @@
 # Aura
+This project is for educational purposes and may be taken down at any time without prior notice.
 Unreal Engine 5 - Gameplay Ability System - Top Down RPG
 
 お勉強用のブランチです。
